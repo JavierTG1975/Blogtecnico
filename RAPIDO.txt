@@ -1,0 +1,57 @@
+🚀 GUÍA SUPER RÁPIDA: PUBLICAR EN GITHUB EN 5 MINUTOS
+
+════════════════════════════════════════════════════════════════════════════════
+
+PASO 1: Abre PowerShell en esta carpeta
+
+  • Click derecho en la carpeta → "Open PowerShell here"
+  • O escribe en PowerShell: cd "d:\javier\Universidad\2Cuatrimestre\ESTRUCTURAS DE DATOS II\Tercer_corte\Blogtecnico"
+
+PASO 2: Ejecuta el script
+
+  .\PUBLICAR_EN_GITHUB.ps1
+
+PASO 3: Responde las preguntas
+
+  • Tu nombre
+  • Tu email
+  • Tu usuario de GitHub
+  • Nombre del repositorio (escribe: Blogtecnico)
+
+PASO 4: Autenticación
+
+  • GitHub te pedirá usuario y contraseña
+  • Usa tu Token Personal (más seguro)
+
+PASO 5: Habilitar GitHub Pages
+
+  • El script abre GitHub automáticamente
+  • Ve a Settings → Pages
+  • Source: "Deploy from a branch"
+  • Branch: "main" / "/root"
+  • Guardar
+
+PASO 6: Espera 2-5 minutos
+
+  • GitHub está construyendo tu sitio
+
+PASO 7: Tu blog está en línea
+
+  https://TU_USUARIO.github.io/Blogtecnico
+
+  ¡Copia este link y cárgalo en la actividad!
+
+════════════════════════════════════════════════════════════════════════════════
+
+¿No funciona? Lee:
+  • GITHUB_PAGES_RAPIDO.md (3 opciones alternativas)
+  • GITHUB_PAGES_GUIDE.md (guía completa)
+
+¿Necesitas tu Token Personal?
+  Ve a: https://github.com/settings/tokens/new
+  Copia el token
+  Úsalo como contraseña en el script
+
+════════════════════════════════════════════════════════════════════════════════
+
+¡Eso es todo! 🎉

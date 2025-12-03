@@ -1,0 +1,24 @@
+# Dependencias
+node_modules/
+package-lock.json
+yarn.lock
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Otros
+.env
+dist/
+build/
